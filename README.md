@@ -1,6 +1,9 @@
 # flutter_biometric_app
 
-A new Flutter project.
+Repositorio creado en base al siguiente tutorial de youtube:
+[https://www.youtube.com/watch?v=h0XewJmWb04](https://www.youtube.com/watch?v=h0XewJmWb04 "https://www.youtube.com/watch?v=h0XewJmWb04")
+
+Pueden encontrar el codigo original [aquí](https://github.com/tusharhow/flutter-biometric "aquí")
 
 ## Getting Started
 
